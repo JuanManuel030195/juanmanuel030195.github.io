@@ -1,0 +1,13 @@
+{
+  "_comment": "Edit this file to name your 7 exercises and point to their image/gif. Put the actual image files in public/images/ and reference them here as /images/<filename>. This file is read at app startup (fetched over HTTP), NOT baked in at build time, so you can swap images and just refresh the browser — no rebuild needed.",
+  "exercises": [
+    { "id": "EXERCISE_ONE",   "name": "Exercise 1", "image": "/images/IMG_5772.GIF" },
+    { "id": "EXERCISE_TWO",   "name": "Exercise 2", "image": "/images/IMG_5773.GIF" },
+    { "id": "EXERCISE_THREE", "name": "Exercise 3", "image": "/images/IMG_5774.GIF" },
+    { "id": "EXERCISE_FOUR",  "name": "Exercise 4", "image": "/images/IMG_5777.GIF" },
+    { "id": "EXERCISE_FIVE",  "name": "Exercise 5", "image": "/images/IMG_5778.GIF" },
+    { "id": "EXERCISE_SIX",   "name": "Exercise 6", "image": "/images/IMG_5776.GIF" },
+    { "id": "EXERCISE_SEVEN", "name": "Exercise 7", "image": "/images/IMG_5779.GIF" },
+    { "id": "REST",           "name": "Rest",       "image": "/images/IMG_5857.GIF" }
+  ]
+}
